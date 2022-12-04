@@ -1,6 +1,7 @@
 // https://adventofcode.com/2022/day/1
 
-///// CALORIES CARRIED PER ELF /////
+//--- Day 1: Calorie Counting ---
+
 // one calorie per line
 // divide each elf with blank line
 
